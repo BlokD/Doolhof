@@ -1,0 +1,30 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XV       M M    M            X
+X MMM  M M   MM M MMM M M  M X
+X M MM M M MM M M M M M M MM X
+X M M  M M    M   M M M M  M X
+X M M MM M M  MMMMM MMM M M  X
+X MMM   M  M MMM           M X
+X    M M MM   M  MM MMMM MMM X
+XMMM        MMM MM    MM MVM X
+X    M M MM   M MMM M MM M M X
+X MMMM  MHMMM M BM  M MM M M X
+X M   M M     MMMMMMM      M X
+X M M M MMMMMMMMMMMMMMMMMMMMMX
+X M M        SMMU  M         X
+X   M M MMM MMMMMM M MMMMMMMMX
+X M M   M   M MMMM M         X
+X  MMMM M M M M HM MMMMMMMMM X
+XM    M   M M M MM  MMMMMMMM X
+X  MM MMMMM M M   M MMM      X
+X M         M MMM M  MM M MMMX
+X   M M M MM    M  M    M    X
+XMMM  M   M  MM MM MMMM M MMMX
+X    MMM M  MVM  M           X
+X MM       M  MM M M  MMMMMM X
+X  MMMMMMMM  MM  M M M     M X
+XM      M M   M MM M M VHV M X
+X  M  M M M M M M  M M     M X
+XMMMMMM MMM M M MMMM MMMMMM  X
+XB          M               BX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

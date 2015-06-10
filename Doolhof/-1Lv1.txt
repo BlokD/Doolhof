@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXX
+X M MV      M      X
+X M MMM*MMM M MM M X
+X*(X)M* BM M   M MV M X
+X M MMM M MM  MMMM X
+XS    M M    M     X
+XMM M M MMMMMM MMMMX
+X   M M M          X
+X M M   MMM MM M M X
+X M MMM M    M M M X
+X M   M M  MMM MM  X
+X M M  MM  MU  M  MX
+X MMMM MB  MMMMMM  X
+X *m  *MMMMM  M MM X
+*(M)m*m*m  *M      M  X
+x *m*M*m*MMMMMM M MX
+x*Mm*M*m        M  X
+x   *M*m MMm*MMMMM*(X)X
+X(M)MMMMM  *mH       *(X)X
+XXXXXXXXXXXXXXXXXXXX
